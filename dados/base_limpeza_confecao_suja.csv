@@ -1,0 +1,21 @@
+﻿ID Pedido;Data;Produto;Categoria;Fornecedor;Cidade;UF;Cliente;Quantidade;Preço Unitário;Custo Unitário;Forma Pagamento;Status Pedido;Observações
+1001;02/01/2026; Camisa ;Superior;Fornecedor A;Caruaru;PE;Loja Sol;3;R$ 60,00;R$ 40,00;Pix;Entregue;
+1002;03/01/2026;calça;inferior;Fornecedor B;Caruaru;PE;Moda Bella;2;R$ 100,00;R$ 75,00;PIX;entregue;
+1003;04-01-2026;Boné;Acessorios;Fornecedor C;Santa Cruz do Capibaribe;PE;Cliente Avulso;4;25;15;Cartao;Entregue;categoria sem acento
+1004;05/01/26;Saia;Inferior;Fornecedor B;Toritama;PE;Loja Sol;2;R$70,00;R$80,00;Cartão;Entregue;prejuízo
+1005;06/01/2026;Camisa;Superior;Fornecedor A;caruaru;pe;Moda Bella;1;R$ 60,00;R$ 40,00;Dinheiro;Pendente;
+1006;07/01/2026;Calça Jeans;Inferior;Fornecedor B;Caruaru;PE;Loja Norte;1;R$ 120,00;R$ 90,00;Pix ;Entregue;produto fora do padrão
+1007;08/01/2026;BONE;Acessório;Fornecedor C;;PE;Loja Sol;5;R$ 25,00;R$ 15,00;Pix;Cancelado;cidade em branco
+1008;09/01/2026;Saia;Inferior;Fornecedor B;Toritama;PE;Moda Bella;;R$ 70,00;R$ 50,00;Boleto;Entregue;quantidade vazia
+1009;10/01/2026;Camisa;Superior;Fornecedor A;Caruaru;PE;Loja Sol;-1;R$ 60,00;R$ 40,00;Pix;Devolução;quantidade negativa
+1010;11/01/2026;Short;Inferior;Fornecedor D;Santa Cruz;PE;Loja Norte;3;R$ 55,00;R$ 40,00;cartão;Entregue;
+1011;12/01/2026;Blusa;Superior;Fornecedor A;Caruaru;PE;Loja Centro;5;R$ 40,00;R$ 26,00;Pix;Entregue;
+1012;12/01/2026;Blusa;Superior;Fornecedor A;Caruaru;PE;Loja Centro;5;R$ 40,00;R$ 26,00;Pix;Entregue;linha duplicada
+1013;13/01/2026;Saia;Inferior;Fornecedor B;Toritama;PE;Loja Norte;2 unidades;R$ 70,00;R$ 50,00;Pix;Entregue;quantidade como texto
+1014;14/01/2026;Camisa;Superior;Fornecedor A;Caruaru;PE;Loja Sul;2;sessenta;R$ 40,00;Pix;Entregue;preço escrito por extenso
+1015;15/01/2026;Boné;Acessório;Fornecedor C;Caruaru;PE;Cliente Avulso;3;R$ 25,00;;Dinheiro;Entregue;custo vazio
+1016;16/01/2026;Calça;Inferior;Fornecedor B;Caruaru;PE;Moda Bella;2;R$ 100,00;R$ 75,00;Cartão Crédito;Entregue;forma de pagamento não padronizada
+1017;17/01/2026;Saia;Inferior;Fornecedor B;Toritama;PE;Loja Sol;1;R$ 70,00;R$ 50,00;Cartao credito;Pendente;
+1018;18/01/2026;Camisa;Superior;Fornecedor A;Caruaru;PE;Loja Norte;4;R$ 60,00;R$ 40,00;pix;Entregue;
+1019;19/01/2026;Short;Inferior;Fornecedor D;Santa Cruz do Capibaribe;PE;Loja Centro;3;R$ 55,00;R$ 40,00;Pix;ENTREGUE;
+1020;;Calça;Inferior;Fornecedor B;Caruaru;PE;Loja Sol;2;R$ 100,00;R$ 75,00;Boleto;Entregue;data vazia
